@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Javier Crisóstomo 👋
+I am a Software Engineer 
 
+- 📫 How to reach me: ...
+- [Linkedin] (https://www.linkedin.com/in/jcrisostomo/)
 <!--
 **JavierCrisostomo/JavierCrisostomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
