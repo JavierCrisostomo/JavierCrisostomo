@@ -1,5 +1,5 @@
-### Hi there, I'm Javier Crisóstomo 👋
-I am a Software Engineer 
+### Hi, I'm Javier Crisóstomo 👋
+Hello, I'm a seasoned Software Engineer with over 14 years of experience in the dynamic field of software engineering. My journey in software engineering began at Verizon, where I contributed to the development of responsive web and mobile applications. Later, at Whiz Latam, I played a crucial role in building a healthcare system using microservices architecture and cutting-edge technologies like .NET Core, ASP.NET, and Microsoft Azure.
 
 - 📫 How to reach me: ...
 - [Linkedin] (https://www.linkedin.com/in/jcrisostomo/)
