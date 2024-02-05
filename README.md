@@ -1,8 +1,8 @@
 ### Hi, I'm Javier Crisóstomo 👋
 I'm a Software Engineer with over 14 years of experience in the dynamic field of software engineering. My journey in software engineering began at Verizon, where I contributed to the development of responsive web and mobile applications. Later, at Whiz Latam, I played a crucial role in building a healthcare system using microservices architecture and cutting-edge technologies like .NET Core, ASP.NET, and Microsoft Azure.
 
-## Find me around the web 🌎:
-- [Linkedin] (https://www.linkedin.com/in/jcrisostomo/)
+## Where to find me 🌎:
+href="https://www.linkedin.com/in/jcrisostomo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <!--
 **JavierCrisostomo/JavierCrisostomo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
