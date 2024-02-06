@@ -2,7 +2,7 @@
 I'm a Software Engineer with over 14 years of experience in the dynamic field of software engineering. My journey in software engineering began at Verizon, where I contributed to the development of responsive web and mobile applications. Later, at Whiz Latam, I played a crucial role in building a healthcare system using microservices architecture and cutting-edge technologies like .NET Core, ASP.NET, and Microsoft Azure.
 
 <h2>🚀 Some Tools I Use</h2>
-
+<p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="26" style="padding-right:10px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="26" style="padding-right:10px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="26" style="padding-right:10px;"/>
@@ -29,8 +29,9 @@ I'm a Software Engineer with over 14 years of experience in the dynamic field of
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="26" style="padding-right:10px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="26" style="padding-right:10px;"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="26" style="padding-right:10px;"/>
+</p>
 
-  <h2>Where to find me 🌎:</h2>
+<h2>Where to find me 🌎:</h2>
 <a href="https://www.linkedin.com/in/jcrisostomo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
