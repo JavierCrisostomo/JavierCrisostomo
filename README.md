@@ -31,7 +31,7 @@ I'm a Software Engineer with over 14 years of experience in the dynamic field of
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" style="padding-right:10;"/>
 </p>
 
-<h2>Where to find me 🌎:</h2>
+<h2>🌎Where to find me:</h2>
 <a href="https://www.linkedin.com/in/jcrisostomo/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <!--
